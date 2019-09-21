@@ -2,14 +2,32 @@
 
 ## 下载
 
+```shell
+git clone  
+```
 ## 分割数据集
 
-## 训练一个简单的模型
+```
+python create_PCA.py
+```
 
-## HSI
+## 训练一个简单的模型
+```
+python testmodel.py
+```
+
+## 训练HSI
+```shell
+cd Part_2
+python HSI.py
+```
 
 #### HIS_K
 #### HIS_G
 #### HIS
 
-### HSI_SVM
+## 训练HSI_SVM
+```shell
+cd Part_3
+python HSI.py
+```
