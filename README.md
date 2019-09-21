@@ -3,7 +3,7 @@
 ## 下载
 
 ```shell
-git clone  
+git clone  https://github.com/Yangget/Forestry_HSI.git
 ```
 ## 分割数据集
 
