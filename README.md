@@ -1,4 +1,4 @@
-# Forestry_HSI
+# HSI-SVM
 
 ## 简介
 　　针对高光谱遥感影像识别与分类中存在的问题，开展了以下几方面的研究工作。
@@ -11,7 +11,7 @@
 ## 下载
 
 ```shell
-git clone  https://github.com/Yangget/Forestry_HSI.git
+git clone  https://github.com/Yangget/HSI-SVM.git
 ```
 ## 分割数据集
 
